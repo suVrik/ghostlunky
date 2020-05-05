@@ -1,3 +1,3 @@
-Ghostlunky allows you to play Spelunky on custom seed. Enjoy endless daily challanges with your frields!
+Ghostlunky allows you to play Spelunky on custom seed. Enjoy endless daily challenges with your friends!
 
 ![](preview.png)
